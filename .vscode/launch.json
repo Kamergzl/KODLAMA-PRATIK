@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/asus/Documents/GitHub/KODLAMA-PRATIK",
-      "program": "c:/Users/asus/Documents/GitHub/KODLAMA-PRATIK/build/Debug/outDebug",
+      "cwd": "c:/Users/asus/Desktop/GitHub/KODLAMA-PRATIK",
+      "program": "c:/Users/asus/Desktop/GitHub/KODLAMA-PRATIK/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
